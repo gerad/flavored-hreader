@@ -51,9 +51,8 @@ Helvetireader: A New Flavor
 	-webkit-box-shadow: 0 0 0 !important;
 }
 
-.item-body{
-	line-height: 1.5;
-}
+.item-body { line-height: 1.5; }
+.overview-segment { line-height: 1.4; }
 
 /*begone yellow fiend*/
 
@@ -99,40 +98,40 @@ a:hover .tree-item-action-container,.scroll-tree li a.menu-open,
 /* Custom icons */
 .entry .entry-actions .broadcast{
 	/* development */
-	background: transparent url(chrome-extension://ljbmahedhikjhjkeaefhhcalhmidebkk/images/share.png) no-repeat 0px 0px !important;
+	background: transparent url(chrome-extension://ogbkjkdjbellhlbchdegmikckdkilpcb/images/share.png) no-repeat 0px 0px !important;
 	/* production */
 	/*background: transparent url(chrome-extension://dkcjfdlgfmefnbhkholnhliliohggmef/images/share.png) no-repeat 0px 0px !important;*/
 	
 }
 .entry .entry-actions .broadcast-active{
 	/* development */
-	background: transparent url(chrome-extension://ljbmahedhikjhjkeaefhhcalhmidebkk/images/share-active.png) no-repeat 0px 0px !important;
+	background: transparent url(chrome-extension://ogbkjkdjbellhlbchdegmikckdkilpcb/images/share-active.png) no-repeat 0px 0px !important;
 	/* production */
 	/*background: transparent url(chrome-extension://dkcjfdlgfmefnbhkholnhliliohggmef/images/share-active.png) no-repeat 0px 0px !important;*/
 }
 .entry .entry-actions .broadcast-with-note{
 	background-position:0px 0px !important;
 	/* development */
-	background: transparent url(chrome-extension://ljbmahedhikjhjkeaefhhcalhmidebkk/images/note.png) no-repeat !important;
+	background: transparent url(chrome-extension://ogbkjkdjbellhlbchdegmikckdkilpcb/images/note.png) no-repeat !important;
 	/* production */
 	/*background: transparent url(chrome-extension://dkcjfdlgfmefnbhkholnhliliohggmef/images/note.png) no-repeat !important;*/
 }
 .entry .entry-actions .like{
 	/* development */
-	background: transparent url(chrome-extension://ljbmahedhikjhjkeaefhhcalhmidebkk/images/like.png) no-repeat 0px 0px !important;
+	background: transparent url(chrome-extension://ogbkjkdjbellhlbchdegmikckdkilpcb/images/like.png) no-repeat 0px 0px !important;
 	/* production */
 	/*background: transparent url(chrome-extension://dkcjfdlgfmefnbhkholnhliliohggmef/images/like.png) no-repeat 0px 0px !important;*/
 }
 .entry .entry-actions .like-active{
 	/* development */
-	background: transparent url(chrome-extension://ljbmahedhikjhjkeaefhhcalhmidebkk/images/like-active.png) no-repeat 0px 0px !important;
+	background: transparent url(chrome-extension://ogbkjkdjbellhlbchdegmikckdkilpcb/images/like-active.png) no-repeat 0px 0px !important;
 	/* production */
 	/*background: transparent url(chrome-extension://dkcjfdlgfmefnbhkholnhliliohggmef/images/like-active.png) no-repeat 0px 0px !important;*/
 }
 .entry .entry-actions .email{
 	background-position:0px 3px !important;
 	/* development */
-	background: transparent url(chrome-extension://ljbmahedhikjhjkeaefhhcalhmidebkk/images/email.png) no-repeat !important;
+	background: transparent url(chrome-extension://ogbkjkdjbellhlbchdegmikckdkilpcb/images/email.png) no-repeat !important;
 	/* production */
 	/*background: transparent url(chrome-extension://dkcjfdlgfmefnbhkholnhliliohggmef/images/email.png) no-repeat !important;*/
 }
@@ -142,27 +141,27 @@ a:hover .tree-item-action-container,.scroll-tree li a.menu-open,
 }
 .entry .entry-actions .read-state{
 	/* development */
-	background: transparent url(chrome-extension://ljbmahedhikjhjkeaefhhcalhmidebkk/images/unread.png) no-repeat 0px 0px !important;
+	background: transparent url(chrome-extension://ogbkjkdjbellhlbchdegmikckdkilpcb/images/unread.png) no-repeat 0px 0px !important;
 	/* production */
 	/*background: transparent url(chrome-extension://dkcjfdlgfmefnbhkholnhliliohggmef/images/unread.png) no-repeat 0px 0px !important;*/
 }
 .entry .entry-actions .read-state-kept-unread{
 	/* development */
-	background: transparent url(chrome-extension://ljbmahedhikjhjkeaefhhcalhmidebkk/images/unread-active.png) no-repeat 0px 0px !important;
+	background: transparent url(chrome-extension://ogbkjkdjbellhlbchdegmikckdkilpcb/images/unread-active.png) no-repeat 0px 0px !important;
 	/* production */
 	/*background: transparent url(chrome-extension://dkcjfdlgfmefnbhkholnhliliohggmef/images/unread-active.png) no-repeat 0px 0px !important;*/
 }
 .entry .entry-actions .item-link{
 	background-position:0px 0px !important;
 	/* development */
-	background: transparent url(chrome-extension://ljbmahedhikjhjkeaefhhcalhmidebkk/images/sendto.png) no-repeat !important;
+	background: transparent url(chrome-extension://ogbkjkdjbellhlbchdegmikckdkilpcb/images/sendto.png) no-repeat !important;
 	/* production */
 	/*background: transparent url(chrome-extension://dkcjfdlgfmefnbhkholnhliliohggmef/images/sendto.png) no-repeat !important;*/
 }
 .entry .entry-actions .tag{
 	background-position:0px 0px !important;
 	/* development */
-	background: transparent url(chrome-extension://ljbmahedhikjhjkeaefhhcalhmidebkk/images/tag.png) no-repeat !important;
+	background: transparent url(chrome-extension://ogbkjkdjbellhlbchdegmikckdkilpcb/images/tag.png) no-repeat !important;
 	/* production */
 	/*background: transparent url(chrome-extension://dkcjfdlgfmefnbhkholnhliliohggmef/images/tag.png) no-repeat !important;*/
 }
@@ -271,7 +270,6 @@ a#sub-tree-subscriptions,
 #your-items-tree,
 #chrome-view-links,
 #trends-selector,
-#overview-selector,
 #lhn-friends,
 #entries-status,
 .entry-likers,
@@ -283,7 +281,8 @@ a#sub-tree-subscriptions,
 .entry-title-go-to,
 #chrome-title,
 #chrome-lhn-toggle,
-#lhn-selectors .selector-icon  {display: none !important;}
+#lhn-selectors .selector-icon,
+.unread-count  {display: none !important;}
 
 #search { 
 	margin: 0!important; 
@@ -381,7 +380,7 @@ a#sub-tree-subscriptions,
 /* @group Sprites */
 .section-button{
 	/* development */
-	background-image: url(chrome-extension://ljbmahedhikjhjkeaefhhcalhmidebkk/images/sprites.png) !important;
+	background-image: url(chrome-extension://ogbkjkdjbellhlbchdegmikckdkilpcb/images/sprites.png) !important;
 	/* production */
 	/*background-image: url(chrome-extension://dkcjfdlgfmefnbhkholnhliliohggmef/images/sprites.png) !important;*/	
 	background-position:0px 0px !important;
